@@ -94,7 +94,12 @@ button {
     margin-top: 4px;
 }
 
-
+.titulo-produtos {
+    color: rgb(31, 109, 211);
+    padding-bottom: 5px;
+    border-bottom: solid 1px;
+    padding-left: 23%;
+}
 
 
 
@@ -112,6 +117,8 @@ button {
     margin: 0 auto;
     text-align: center;
 }
+
+
 
 }
 
